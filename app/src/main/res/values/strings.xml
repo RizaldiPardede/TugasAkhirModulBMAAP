@@ -1,0 +1,227 @@
+<resources>
+    <string name="app_name">TugasAkhirModulBMAAP</string>
+    <string name="program_bangkit">Program Bangkit</string>
+    <string name="tanggal_rilis">Tanggal Rilis</string>
+    <string name="ini_adalah_sebuah_artikel_tentang_bangkit_program_pada">ini adalah sebuah artikel tentang bangkit program pada</string>
+    <string name="rizaaldi_pardede">Rizaldi Pardede</string>
+    <string name="todo">TODO</string>
+    <string name="rizaldipardede_student_ub_ac_id">rizaldipardede@student.ub.ac.id</string>
+
+    <string-array name="data_name">
+        <item>Komunikasi yang Efektif bagi Penolak Vaksin</item>
+        <item>Pandemi, Pahlawan, dan (Ilusi) Media Sosial</item>
+        <item>Benarkah Guru Santai dengan PJJ?</item>
+        <item>Menuju Pariwisata Berdaya Dukung Lingkungan</item>
+        <item>Mau ke Mana Setelah Lulus?</item>
+        <item>"Second Plan" Pendidikan Kita</item>
+        <item>Seimbangkan PTM dan Pembelajaran Online</item>
+        <item>Kekuatan Kopi Excelsa Wonosalam</item>
+        <item>Bagaimana Pengaruh Pemimpin terhadap Organisasi?</item>
+        <item>cuci Tangan Agar Virus Corona Tidak Menyerang</item>
+
+    </string-array>
+    <string-array name="data_description">
+        <item>Setelah pertemuan mingguan, sesuatu mengganjal di pikiran saya. Ini bukan tentang masalah atau keluhan pelanggan yang sering terjadi akhir-akhir ini. Tetapi pertanyaan dari bos saya, mengapa anggota tim saya tidak divaksinasi Covid-19.</item>
+        <item>Apa yang biasanya orang lakukan dalam keadaan darurat? Apakah kamu menelepon polisi di 110? Apakah Anda menelepon ambulans 118/119? Atau hubungi nomor darurat 113? Mungkin orang terlalu gugup dan panik untuk menelepon layanan tersebut. Mungkin tidak ada cukup waktu. Orang-orang segera mencari pertolongan pertama karena panik. Kami menelepon teman, keluarga atau tetangga.</item>
+        <item>Pandemi yang sedang berlangsung mengkhawatirkan banyak orang tua. Keluhan tersebut antara lain tugas sekolah yang menumpuk, beban kuota internet dan kesempatan belajar yang kurang lincah seperti laptop dan handphone.</item>
+        <item>Pasca Covid-19, Indonesia kembali menjadi sorotan dunia internasional. UNESCO mendesak pemerintah menghentikan proyek infrastruktur pariwisata Taman Nasional Komodo. Pembangunan tersebut berpotensi merusak lingkungan dan mengganggu habitat komodo. Bahkan tidak ada studi dampak lingkungan yang dilakukan. Permintaan UNESCO dijawab di rumah dengan plus dan minus. Para pegiat lingkungan merasa mendapat angin segar, sementara Gubernur NTT menjelaskan bahwa semua aspek, termasuk lingkungan, diperhatikan dalam pembangunan.</item>
+        <item>Memperoleh ijazah perguruan tinggi dengan gelar akademik yang menyertainya merupakan ujung bagi seorang mahasiswa dari rangkaian perjalanan akademik di dunia akademik. Merayakan keberhasilan perjuangan akademik patut dirayakan dengan penuh rasa syukur, suka cita dan meriah. Bagaimanapun, ia berhasil melewati salah satu dari banyak fase akademik yang menemaninya dalam perjalanan ke universitas.</item>
+        <item>Awal trend kasus aktif Covid-19 membawa secercah harapan bagi dunia pendidikan, seperti mati suri dengan kebijakan difabel untuk beradaptasi dengan situasi Covid-19. Situasi ini tentu akan membawa kembali euforia pembelajaran tatap muka ke sekolah. Namun, sembari menunggu berakhirnya pelarangan sekolah di masa PPKM ini, segala sesuatunya perlu kita persiapkan, agar euforia kembali ke sekolah tidak berlebihan.</item>
+        <item>Beberapa sekolah di berbagai daerah sudah mulai menyelenggarakan pembelajaran tatap muka terbatas (PTMT). Munculnya Pembelajaran Tatap Muka (PTM) menambah kelebihan dan kekurangan di masyarakat. Para ahli berpendapat bahwa pembelajaran online yang telah berlangsung selama hampir satu setengah tahun telah meningkatkan learning loss dan peningkatan learning loss.</item>
+        <item>Hingga saat ini, kawasan Wonosalam, Kabupaten Jombang dikenal sebagai salah satu sentra durian Jawa Timur. Tidak salah karena Wonosalam juga memproduksi durian bido, durian endemik yang keunggulannya telah diakui Kementerian Pertanian sejak tahun 2006 melalui Keputusan Menteri No. 340/Kpts/SR.120/5/2006. Namun Wonosalam juga dikenal sebagai daerah penghasil kopi, apalagi kopinya yang luar biasa nikmat.</item>
+        <item>Kepemimpinan tidak pernah lebih penting daripada saat ini. Organisasi dengan berbagai ukuran kini bergulat dengan kerumitan yang belum pernah terjadi sebelumnya yang disebabkan oleh meningkatnya VUCA (Volatilitas, Ketidakpastian, Kompleksitas, dan Ambiguitas), meningkatnya tekanan persaingan, dan meningkatnya ekspektasi karyawan.</item>
+        <item>Baru-baru ini, dunia dikejutkan oleh virus corona baru. Banyak korban meninggal karena virus ini karena henti napas. Tidak ada vaksin atau perawatan khusus yang ditemukan untuk mengobati infeksi virus ini. Namun tahukah kamu bahwa tindakan sederhana seperti mencuci tangan dapat mencegah penyebaran virus? Apakah kamu tahu kapan dan bagaimana cara mencuci tangan yang benar? Simak artikel berikut agar Anda tidak hanya bisa mencegah infeksi virus corona tapi juga penyakit menular lainnya.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/satu</item>
+        <item>@drawable/dua</item>
+        <item>@drawable/tiga</item>
+        <item>@drawable/empat</item>
+        <item>@drawable/lima</item>
+        <item>@drawable/enam</item>
+        <item>@drawable/tujuh</item>
+        <item>@drawable/delapan</item>
+        <item>@drawable/sembilan</item>
+        <item>@drawable/sepuluh</item>
+    </integer-array>
+
+    <string-array name="isi">
+        <item>Setelah pertemuan mingguan, sesuatu mengganjal di pikiran saya. Ini bukan tentang masalah atau keluhan pelanggan yang sering terjadi akhir-akhir ini. Tetapi pertanyaan dari bos saya, mengapa anggota tim saya tidak divaksinasi Covid-19.
+
+Saya baru menyadari ada orang lain di tim saya yang tidak mau divaksinasi. Karena saya sudah menerima pengingat, saya mencoba menanyakan alasannya secara langsung. Setelah ngobrol sebentar, akhirnya saya mendapatkan alasan mengapa anggota tim saya ini enggan divaksin.
+
+Tempat permasalahannya adalah keraguan tentang keamanan acara pasca vaksinasi (KIPI), status halal dari segi agama, dan tidak ada tekanan dari administrasi kantor. Contoh dari tim saya ini menunjukkan bahwa ada kesenjangan pengetahuan yang tidak sampai kepada mereka, bahwa mereka tetap tidak mau divaksinasi.
+
+Padahal, kisah di atas hanyalah puncak gunung es. Terlihat kecil di atas, namun masih banyak kasus penolakan vaksin di masyarakat. Dasarnya adalah rendahnya cakupan program vaksinasi Covid-19. Ada kemajuan tapi tidak signifikan. Namun, jika ingin pandemi ini cepat berakhir, hanya ada satu solusi yaitu mempercepat vaksinasi masyarakat.
+
+Menurut Departemen Kesehatan, hingga 31 Juli 2021, 47 juta orang telah menerima vaksin tahap pertama atau sekitar 22,75 persen dari target 208 juta orang. Sementara itu, yang menerima vaksin tahap kedua lebih sedikit lagi, yakni hanya 20 juta orang. Inilah yang dibutuhkan pemerintah untuk terus memvaksinasi lebih banyak orang dan lebih cepat karena berpacu dengan waktu.
+
+Untuk mencapai hal ini, setiap upaya resistensi vaksin harus segera ditolak. Yakni dengan menyusun strategi komunikasi yang tepat bagi kelompok oposisi vaksin. Pengembangan strategi ini harus melibatkan pihak swasta, lembaga pendidikan dan tokoh agama. Kedengarannya klise, tapi percayalah, ini adalah cara yang efektif jika dilakukan secara massal dan konsisten.
+
+Untuk karyawan swasta seperti saya, salah satu langkah yang mungkin dilakukan adalah mengamanatkan agar semua pekerja divaksinasi. Tentu saja, masih ada pengecualian bagi orang yang memiliki gangguan kesehatan dan kondisi tertentu yang menyebabkan kegagalan vaksinasi. Hal ini juga harus sesuai dengan anjuran dokter. Bagi yang tidak ada hambatan wajib vaksinasi, kalau tidak mau bisa kena sanksi.
+
+Namun, kelemahannya selama ini adalah pemerintah gagal mengendalikan perusahaan. Sedangkan opsi ini dapat memastikan bahwa semua karyawan telah menerima vaksin tersebut. Selain itu, perusahaan memiliki negosiasi yang cukup untuk melaksanakan pesanan.
+
+Strategi komunikasi lainnya adalah dengan melibatkan pemuka agama dengan mengatakan bahwa vaksin ini halal. MUI memang memutuskan bahwa vaksin Covid-19 itu halal. Namun nyatanya, masih ada beberapa kelompok yang melarang vaksinasi. Apalagi dengan dalih paksaan.
+</item>
+        <item>Apa yang biasanya orang lakukan dalam keadaan darurat? Apakah kamu menelepon polisi di 110? Apakah Anda menelepon ambulans 118/119? Atau hubungi nomor darurat 113? Mungkin orang terlalu gugup dan panik untuk menelepon layanan tersebut. Mungkin tidak ada cukup waktu. Orang-orang segera mencari pertolongan pertama karena panik. Kami menelepon teman, keluarga atau tetangga.
+
+Namun, pertolongan pertama mungkin tidak tersedia. Tidak banyak yang bisa kita lakukan selama Kebijakan PPKM Darurat dan kebijakan Pandemi sebelumnya (dan yang akan datang). Kami berkumpul di sebuah ruangan dan dibingungkan oleh ilusi yang sama. Kami tahu betapa sulitnya mencari uang receh. Sebagian dari kita hanya bisa bermain dengan sendok dan piring kosong yang saling berdenting.
+
+Pikiran kita terus dihantui oleh tawa anak-anak dan keluarga di rumah. Aku bahkan tidak bisa membayangkan tawanya berubah menjadi air mata. Apakah kebutuhan esok hari dapat terpenuhi? Ini pertanyaan yang memilukan.
+
+Kita benar-benar kacau karena pandemi. Kita berjalan bersama melalui labirin keputusasaan. Belum genap seminggu, satu, dua, tiga, bahkan empat orang meninggal. Katanya kena Covid-19. Kita bertanya-tanya siapa pahlawan, siapa yang bisa menjadi penyelamat di tengah kekacauan seperti itu?
+
+Media sosial adalah surga dunia bagi orang-orang yang putus asa. Kita tidak perlu berusaha keras untuk menemukan sesuatu yang sulit kita capai di dunia nyata. Media sosial menawarkan seribu satu kekayaan. Kita dapat dengan mudah menjelajahi penjuru dunia. Bertemu orang baru dan pasti mengenal banyak orang. Di sini kita dapat bertukar dan menginformasikan diri kita sendiri tentang setiap peristiwa dan setiap keadaan. Kami benar-benar terhubung. Tanpa segregasi dan diskriminasi. Kita benar-benar merayakan keputusasaan.
+
+We Are Social, sebuah perusahaan media Inggris, bekerja sama dengan Hootsuite di Digital 2021: The Latest Insights Inti The State of Digital mengungkapkan bahwa rata-rata orang Indonesia menghabiskan waktu tiga jam 14 menit sehari di jejaring sosial. Jangka waktu ini merupakan yang tertinggi kedua di Asia, hanya di antara Filipina yang menghabiskan waktu 3,8 jam.
+
+Malaysia, Thailand, India, Vietnam, dan Singapura menghabiskan sekitar dua jam sehari di media sosial. Cina, Hong Kong, Taiwan, dan Korea Selatan sekarang melakukan perjalanan sekitar satu jam sehari. Jepang menghabiskan waktu paling sedikit, hanya 46 menit sehari.
+</item>
+        <item>Pandemi yang sedang berlangsung mengkhawatirkan banyak orang tua. Keluhan tersebut antara lain tugas sekolah yang menumpuk, beban kuota internet dan kesempatan belajar yang kurang lincah seperti laptop dan handphone.
+
+Keluhan lainnya adalah kecanduan game dan musik ala Korea. Beberapa orang tua bahkan mengeluhkan anaknya yang kurang paham dengan mata pelajaran tersebut, sehingga harus mencari tips belajar tambahan di luar pelajaran sekolah online, seperti les atau nasihat parenting. Sehingga sebagian orang tua tidak berkelakar di laman Facebook bahwa pekerjaan guru dilonggarkan selama pandemi karena ada kebijakan work from home (WFH). Apakah itu benar?
+
+Saya tersenyum mendengar komentar itu. Karena yang berbicara itu sebenarnya bukan guru. Jika itu rekan kerja, saya yakin tidak akan ada komentar seperti itu. Hanya untuk menjadi seorang guru, kamu membutuhkan setidaknya gelar sarjana. Apalagi guru SD seperti saya. Perguruan tinggi inferior saja tidak cukup jika tidak linier. Saya harus kembali ke sekolah untuk belajar pendidikan dasar. Dan tugas guru tetap sama meski harus mengajar di rumah (WFH).
+
+Tugas seorang guru tidak hanya mendidik dan melatih siswa. Guru harus menyiapkan materi pembelajaran, mengisi buku harian, menciptakan lingkungan belajar, sudah banyak guru yang membuat materi pembelajaran dengan video dan mengunggahnya ke channel YouTube. Menyiapkan bahan atau bahan pelajaran, lembar kerja dan lembar penilaian bagi siswa. Setelah itu, guru harus mengoreksi nilai siswa dan memasukkannya ke dalam kolom yang telah disediakan oleh sistem.
+
+Seolah 24 jam tidak cukup bagi seorang guru. Terutama pada acara-acara nasional seperti Hari Kemerdekaan, Hari Guru dan Hari Pendidikan. Guru harus menyiapkan berbagai perlombaan. Penentuan pemenang dan persiapan hadiah. Kemudian siapkan mental siswa dengan Motivational Institute.
+</item>
+        <item>Pasca Covid-19, Indonesia kembali menjadi sorotan dunia internasional. UNESCO mendesak pemerintah menghentikan proyek infrastruktur pariwisata Taman Nasional Komodo. Pembangunan tersebut berpotensi merusak lingkungan dan mengganggu habitat komodo. Bahkan tidak ada studi dampak lingkungan yang dilakukan. Permintaan UNESCO dijawab di rumah dengan plus dan minus. Para pegiat lingkungan merasa mendapat angin segar, sementara Gubernur NTT menjelaskan bahwa semua aspek, termasuk lingkungan, diperhatikan dalam pembangunan.
+
+Pemerintah harus mengubah peringatan UNESCO menjadi peringatan pengelolaan wisata alam. Pengelolaan wisata alam harus fokus pada kelestarian ekosistem daripada tujuan finansial semata. Keberlanjutan melestarikan kelestarian situs alam sehingga manfaat ekonomi terus berlanjut. Namun, jika pembangunan dilakukan tanpa mempertimbangkan lingkungan, maka manfaatnya hanya akan terlihat dalam jangka pendek.
+
+Indonesia juga dikenal sebagai zamrud khatulistiwa karena keindahan alam dan keanekaragaman hayatinya. Julukan ini membuat beberapa destinasi wisata menjadi tujuan wisatawan mancanegara. Bali, Wakatobi, Raja Ampat, Lombok, Labuan Bajo atau Bunaken adalah contoh tujuan wisata yang populer. Modal ini harus dikelola sebagai sumber daya alam yang tidak dapat diperbarui. Pengelola pariwisata harus mempertimbangkan daya dukung dalam mendukung wisatawan. Yang dimaksud dengan daya dukung adalah kemampuan lingkungan hidup untuk mendukung kehidupan manusia, makhluk hidup lain dan keseimbangan di antara mereka (UU nomor 32 tahun 2009 tentang perlindungan dan pemeliharaan lingkungan hidup).
+
+Ekosistem yang menjadi tujuan wisata alam memiliki keterbatasan tertentu untuk mendukung kegiatan wisata. Jika batas tersebut terlampaui, maka dapat merusak dan mengganggu ekosistem.
+
+Pembangunan infrastruktur wisata bertujuan untuk menarik minat untuk meningkatkan jumlah kunjungan wisatawan. Dikhawatirkan kenaikan tersebut akan meningkatkan pencemaran lingkungan. Selain itu, konstruksi mengubah fungsi tanah yang seharusnya memiliki fungsi pelindung, seperti B. penyerapan air atau pencegahan longsor. Pembangunan infrastruktur pariwisata, terutama dampaknya terhadap lingkungan, harus ditelaah lebih dalam.
+
+Pemerintah jangan hanya melihat jumlah pengunjung sebagai indikator keberhasilan pengelolaan industri pariwisata. Terlalu banyak wisatawan dapat menimbulkan akibat negatif, seperti kerusakan alam, pencemaran flora dan fauna atau timbulan sampah. Jika kondisi ini tidak ditegakkan maka akan mengurangi kenyamanan dan mengecewakan wisatawan yang berkunjung.
+
+Jumlah wisatawan yang tidak terkendali yang terlalu berimbang juga berdampak negatif. Pengawasan yang lemah dapat menyebabkan perilaku wisatawan yang tidak bertanggung jawab. Tempat wisata sering dirusak atau melanggar aturan. Apalagi setelah media sosial, banyak wisatawan yang hanya mengikuti tren tanpa memikirkan dampaknya.
+</item>
+        <item>Memperoleh ijazah perguruan tinggi dengan gelar akademik yang menyertainya merupakan ujung bagi seorang mahasiswa dari rangkaian perjalanan akademik di dunia akademik. Merayakan keberhasilan perjuangan akademik patut dirayakan dengan penuh rasa syukur, suka cita dan meriah. Bagaimanapun, ia berhasil melewati salah satu dari banyak fase akademik yang menemaninya dalam perjalanan ke universitas.
+
+Meski harus diakui bahwa jenjang sarjana bukanlah perhentian terakhir dari perjalanan akademik yang bersangkutan, melainkan babak baru dalam perjalanan menuju kehidupan nyata mata kuliah, yang tentunya berbeda dengan dunia kampus.
+
+Berkaitan dengan perkuliahan, tentunya kamu akan mencari pekerjaan setelah lulus, terutama pekerjaan kantoran. Pengangguran mungkin adalah kata yang paling menyakitkan bagi para peneliti. Peneliti mencoba melamar pekerjaan kesana kemari dengan gelar sarjana hanya untuk melampirkan status PNS atau PNS. Tapi banyak yang menganggur karena tidak bisa mendapatkan "pekerjaan kantoran".
+
+Lalu pertanyaan selanjutnya, apakah mahasiswa sudah siap untuk "pekerjaan kantoran"? Apakah gelar sarjana membuat lulusannya malu pada hal lain selain "kantor"? Kita harus memperbaiki asumsi dasar seperti itu bersama-sama.
+
+Universitas tentu bukan untuk bekerja, tapi kuliah tentu untuk mengejar ilmu. Namun, pekerjaan tidak harus terikat dengan gelar. Para peneliti mencoba untuk mendapatkan "pekerjaan kantoran" bahkan jika mereka tidak sesuai dengan gelarnya, dalam hal ini pekerjaan mereka nantinya tidak menghasilkan produktivitas yang signifikan dan efisiensi mereka terus memburuk.
+
+Kondisi ini tentu saja merugikan para peneliti di bidang yang tidak biasa mereka geluti, dan masih terikat pada ruang yang tidak bisa mereka kreasikan.
+
+Secara kolektif, lulusan tidak lagi mencari pekerjaan, melainkan "menciptakan" lapangan kerja dimana lulusan dapat membantu mengurangi pengangguran daripada menambah pengangguran. Namun Anda tidak boleh salah mengartikannya jika Anda memiliki kesempatan untuk menjadi seorang karyawan atau PNS setelah menyelesaikan studi Anda.
+
+Sangat disayangkan bahwa peneliti hanya mengandalkan kertas yang ditandatangani oleh rektor dan tidak mau mempercayai kecerdasan dan kreativitasnya dalam profesi lain, misalnya dalam kewirausahaan. Peneliti akademik sejati terus melakukan penelitian sesuai dengan aplikasi bidangnya bahkan melanjutkan pendidikan ke jenjang yang lebih tinggi. Studi-studi ini terdaftar dan dilindungi oleh hak cipta.
+
+Bagi sebagian orang, kelulusan seringkali menjadi ironi yang menimbulkan rasa bangga dan takut sekaligus. Bangga karena telah mencapai tujuan belajar dengan baik dan sempurna, namun seringkali menimbulkan rasa takut karena ada ketidakpastian tentang apa yang harus dilakukan setelah lulus.
+
+Kecemasan, kebingungan, ketidakamanan dan ketidakpastian terutama disebabkan oleh ketidaksiapan beberapa lulusan perguruan tinggi untuk babak baru dalam hidup mereka setelah lulus. Selain itu, bisa juga karena kurangnya visi, motivasi dan kepercayaan diri dalam mengejar kompetensi dalam dunia kerja dan masyarakat pada umumnya.
+
+Gambaran langkanya lapangan kerja dan banyaknya pengangguran di negeri ini menjadi candaan yang beredar di benak para lulusan baru (new graduate).
+</item>
+        <item>Awal trend kasus aktif Covid-19 membawa secercah harapan bagi dunia pendidikan, seperti mati suri dengan kebijakan difabel untuk beradaptasi dengan situasi Covid-19. Situasi ini tentu akan membawa kembali euforia pembelajaran tatap muka ke sekolah. Namun, sembari menunggu berakhirnya pelarangan sekolah di masa PPKM ini, segala sesuatunya perlu kita persiapkan, agar euforia kembali ke sekolah tidak berlebihan.
+
+Namun, magnet ceria sekolah sedikit banyak telah hilang selama pandemi. Kapan lagi kita bisa melihat senyum anak sekolah? Kami membayangkan betapa bahagianya ketika kegembiraan itu kembali. Kegembiraan melihat anak-anak berseragam sekolah bercanda dengan teman sekolahnya.
+
+Kami optimis, ekspresi bahagia kembali terlihat di wajah anak-anak. Kegembiraan yang bisa terasa berbeda dari bermain bersama. Mungkin yang suka pakai seragam sekolah itu yang sering main bareng.
+
+Namun, kegembiraan ini bisa cepat menguap. Pada saat yang sama, keinginan yang tinggi untuk bersekolah tidak sesuai dengan kepatuhan dan kedisiplinan dalam pelaksanaan perilaku hidup sehat. Setidaknya Anda bisa melihat bahwa masih banyak anak-anak di keramaian, bahkan tidak ada topeng.
+
+Jangan sampai euforia belajar tatap muka mengorbankan kesehatan dan keselamatan seluruh anak sekolah. Adanya pandemi setidaknya mengajarkan kita semua untuk diam saja dan tidak memperburuk kondisi pendidikan kita. Ada banyak perkembangan inovatif yang bisa kita coba terapkan agar kita tidak lagi lengah dalam situasi serupa. Pertama, jangan hanya mengandalkan pembelajaran tatap muka.
+
+Pengajaran tatap muka memang merupakan aset berharga bagi pendidikan kita. Wajah belajar memberikan jaminan psikologis bahwa anak sudah bersekolah dan guru sedang mengajar. Sederhananya, pengajaran wajib tidak lagi diperlukan dengan pengajaran tatap muka. Tentu saja tidak; pembelajaran tatap muka sangat dibutuhkan dan memberikan pemahaman informasi yang lebih mendalam dibandingkan dengan pembelajaran online.
+
+Kedua, jangan salahkan pembelajaran online. Dalam Ikhtisar Praktik Pengalaman Lapangan (PPL) Siswa, saya menemukan bahwa latihan yang dilakukan melalui sistem daring dirancang agar interaktif dan menarik.
+
+Guru dapat menjelaskan dengan animasi yang menarik, siswa juga antusias dalam belajar, menjawab pertanyaan, aktif bereaksi. Dengan bantuan catatan, guru mempraktekkan packing yang baik. Membuat powerpoint yang menarik, terus berinteraksi dengan siswa, berkomunikasi dua arah, dan menulis di papan tulis digital terlihat sangat keren.
+
+Ketiga, pembelajaran tidak lagi hanya bertumpu pada nilai-nilai kognitif semata. Konsep belajar mandiri yang ditegaskan Mendikbud cocok untuk memutus lingkaran setan belajar hanya untuk mencari nilai, bukan pemahaman dan makna belajar dalam kaitannya dengan konteks nyata. Hilangkan jiwa-jiwa yang ingin murni berorientasi kognitif dan dapat dicapai secara intelektual. Hapus juara kelas, papan peringkat, dan sejenisnya.
+
+Apa artinya bersaing dan bersaing untuk prestasi akademik tidak baik? Tentu saja bagus. Permasalahannya mata pelajaran yang diperiksa, mata pelajaran yang diperiksa, masih terfokus pada hapalan materi, belum pada materi yang membimbing siswa alias siswa untuk menganalisis, mengevaluasi dan mencipta.
+</item>
+        <item>Beberapa sekolah di berbagai daerah sudah mulai menyelenggarakan pembelajaran tatap muka terbatas (PTMT). Munculnya Pembelajaran Tatap Muka (PTM) menambah kelebihan dan kekurangan di masyarakat. Para ahli berpendapat bahwa pembelajaran online yang telah berlangsung selama hampir satu setengah tahun telah meningkatkan learning loss dan peningkatan learning loss.
+
+Bagi yang menentang, PTM bisa menjadi klaster baru penularan lambat Covid-19, memilih tetap mengutamakan keselamatan. Tingginya kasus Covid pada anak - 12,6% anak positif Covid-19 (Satgas Covid-19, 25/06/2021) - terus menghantui para orang tua. Hal ini wajar karena mengutamakan keselamatan jiwa di atas segalanya.
+
+Apabila mengacu pada kebijakan Mendikbud Nadiem Makarim bersama Menag, Mendagri dan Menkes, instruksi PTMT memang tegas; mengikuti program kesehatan, peternak harus divaksinasi, PTM hanya 50% dilaksanakan bersama dengan PJJ, kantin sekolah ditutup dan kegiatan ekstra dihentikan.
+
+Namun kita juga perlu belajar dari kasus-kasus sebelumnya ketika pada awal Juni 2020 pemerintah menerbitkan pedoman PTMT dengan pedoman pembelajaran, namun pada akhir Juni pemerintah merevisi kembali pedoman PTMT seiring dengan peningkatan kasus Covid-19. bahwa hampir semua sekolah kembali menerapkan PJJ. Kejadian ini tidak mungkin terjadi lagi, namun kita harus siap dengan segala kemungkinan yaitu melakukan PTM dengan protokol yang ketat sekaligus meningkatkan kualitas e-learning.
+
+Pendidikan adalah proses membimbing, mengenal dan melatih peserta didik untuk menjadi manusia seutuhnya melalui pembelajaran tentang proses kehidupan. Banyak yang hilang dalam proses pendidikan selama pandemi Covid-19. Berdasarkan banyak kajian, pembelajaran daring belum habis, sehingga kerugian belajar dan kekurangan belajar serta hilangnya penguatan karakter peserta didik menjadi ancaman serius bagi masa depan.
+
+Kerugian belajar tersebut disebabkan kualitas pembelajaran untuk mengubah ruang kelas menjadi kelas online membuat anak bosan, motivasi belajar mereka rendah, dan orang tua juga stres. Pendekatan, strategi, dan teknik pengajaran daring belum mampu membangkitkan antusiasme siswa.
+
+Hal ini tentu bisa dimaklumi mengingat Covid-19 datang sebagai bencana yang tidak terduga, namun ini bisa menjadi pelajaran bagi siapa saja yang perlu berbenah di masa mendatang. Pada saat yang sama, kesenjangan pembelajaran disebabkan oleh perbedaan infrastruktur. Ada 75.000 desa di Indonesia, 20.000 di antaranya masih belum terkoneksi internet. Ada juga 214.000 sekolah di Indonesia, dan 80.000 sekolah masih belum terkoneksi internet. Ironisnya, sekolah yang terkoneksi internet hanya menggunakan jaringannya saat UNBK, yaitu. hanya di akhir sekolah. Website tidak digunakan dalam kehidupan sehari-hari, bagaimana guru dan siswa dapat melatih keterampilan digital.
+</item>
+        <item>Hingga saat ini, kawasan Wonosalam, Kabupaten Jombang dikenal sebagai salah satu sentra durian Jawa Timur. Tidak salah karena Wonosalam juga memproduksi durian bido, durian endemik yang keunggulannya telah diakui Kementerian Pertanian sejak tahun 2006 melalui Keputusan Menteri No. 340/Kpts/SR.120/5/2006. Namun Wonosalam juga dikenal sebagai daerah penghasil kopi, apalagi kopinya yang luar biasa nikmat.
+
+Mungkin banyak yang belum tahu kopi excelsa karena memang jumlahnya tidak banyak. Hanya sekitar 5 persen dari total pergerakan kopi dunia. Namun, kopi Excelsa memiliki rasa yang unik dan eksotis. Kopi Excelsa Wonosalam memiliki rasa fruity, nikmat, floral, chocolatey dan creamy yang memberikan ciri khas tersendiri pada kopi ini.
+
+Tanaman kopi Excelsa diperkirakan sudah ada di Wonosalam sejak zaman Belanda, sekitar awal abad ke-20, sebagai pengganti tanaman kopi Arabica dan Robusta yang hampir seluruhnya sakit. Sementara itu, sejarah perkebunan kopi Wonosalam sendiri sudah ada sejak abad ke-19. Pada tahun 1861, ilmuwan Inggris Alfred Russel Wallace, dalam perjalanannya ke Jombang, mengunjungi perkebunan kopi di Wonosalam untuk mengumpulkan sampel burung merak dan ayam hutan.
+
+Dokumen lain juga menyebutkan beberapa nama desa dan dusun yang tergabung sebagai perkebunan atau perkebunan kopi di Kecamatan Wonosalam, bagian dari Kecamatan Onder Kasembon, Kecamatan Ngantang, Kabupaten Malang sejak tahun 1850-an. Beberapa nama perkebunan tersebut adalah Ajaran, Wonomerto, Segoenoeng, Tjarangwoeloeng, Wonokerso, Pangloengan dan Bagongan.
+
+Budidaya tanaman kopi unggulan merata di sembilan desa di Kecamatan Wonosalam, terutama di daerah yang ketinggiannya kurang dari 700 meter di atas permukaan laut. Di atas ketinggian tersebut, kopi Robusta dan Arabica dominan dikembangkan.
+</item>
+        <item>Kepemimpinan tidak pernah lebih penting daripada saat ini. Organisasi dengan berbagai ukuran kini bergulat dengan kerumitan yang belum pernah terjadi sebelumnya yang disebabkan oleh meningkatnya VUCA (Volatilitas, Ketidakpastian, Kompleksitas, dan Ambiguitas), meningkatnya tekanan persaingan, dan meningkatnya ekspektasi karyawan.
+
+Tuntutan yang ditempatkan pada para pemimpin saat ini untuk menjadi agen perubahan yang efektif belum pernah terjadi sebelumnya. Mereka yang mencapai posisi kepemimpinan sering kali dipaksa untuk membawa tim mereka ke tingkat yang lebih tinggi dan secara aktif berpartisipasi dalam membentuk organisasi mereka untuk mengimbangi pasar dan siklus bisnis yang berkembang pesat saat ini.
+
+Kelangsungan hidup dan kesuksesan di lingkungan baru ini sangat bergantung pada manajemen yang tepat. Kepemimpinan dengan dampak tinggi.
+
+Apa artinya berpikir seperti pemimpin yang efektif? Pemimpin yang efektif membutuhkan pemahaman tentang tantangan kepemimpinan jangka panjang untuk memberikan nilai jangka panjang. Nilai adalah bagian penting dari kepemimpinan dan dapat menginformasikan bagaimana pemimpin berpikir dan membuat keputusan.
+
+Menyelaraskan kepemimpinan dengan nilai-nilai pribadi dapat mengarah pada kepemimpinan positif dan tujuan yang berhubungan dengan masa kini dan masa depan. Jadi nilai mana yang menonjol? Ini adalah nilai bagi saya yang berasal dari tidak memiliki semua jawaban, yang terlalu umum di dunia yang kompleks saat ini.
+
+Kepemimpinan berarti mengajukan pertanyaan yang tepat, memperkenalkan perspektif baru, dan membiarkan orang lain bertindak sebagai penghasil ide. Salah satu cara untuk meningkatkan ini dalam praktiknya adalah dengan berfokus pada "kepemimpinan terdistribusi":
+Semakin banyak organisasi berbagi kepemimpinan dalam struktur mereka, semakin efektif kita.
+</item>
+        <item>Baru-baru ini, dunia dikejutkan oleh virus corona baru. Banyak korban meninggal karena virus ini karena henti napas. Tidak ada vaksin atau perawatan khusus yang ditemukan untuk mengobati infeksi virus ini. Namun tahukah kamu bahwa tindakan sederhana seperti mencuci tangan dapat mencegah penyebaran virus? Apakah kamu tahu kapan dan bagaimana cara mencuci tangan yang benar? Simak artikel berikut agar Anda tidak hanya bisa mencegah infeksi virus corona tapi juga penyakit menular lainnya.
+
+Coronavirus atau "coronavirus disease 2019" (COVID-19) adalah virus baru yang menyebabkan penyakit pernafasan pada manusia dan dapat ditularkan dari orang ke orang. Virus ini pertama kali ditemukan di sebuah tempat di China bernama Wuhan.
+
+Per 22 Maret 2020, ada 292.142 kasus yang dikonfirmasi dari berbagai negara termasuk China, Singapura, Malaysia, Jepang, Vietnam, Australia, Prancis, Amerika Serikat, dan Indonesia. Gejala virus ini bisa berupa demam, batuk, dan sesak napas. Jika kamu mengalami gejala tersebut, terutama jika Anda berhubungan dekat dengan seseorang yang baru kembali dari China atau baru saja bepergian ke luar negeri, segeralah periksakan diri kamu ke Puskesmas terdekat.
+
+Seseorang dapat menyebarkan virus corona melalui tetesan liur yang dihasilkan ketika orang yang terinfeksi batuk atau bersin, dengan cara yang sama seperti flu atau virus pernapasan lainnya ditularkan. Proses penularan dapat berlanjut jika seseorang menyentuh suatu benda dengan tetesan virus kemudian menyentuh mulut, wajah atau matanya sendiri, atau bahkan orang lain.
+
+Oleh karena itu, penting bagi kita untuk memperhatikan kebersihan, termasuk juga mencuci tangan. Mencuci tangan mungkin terlihat mudah dan sering dianggap remeh. Namun tahukah kamu bahwa cuci tangan begitu penting dalam dunia medis sehingga Perserikatan Bangsa-Bangsa (PBB) meluncurkan kampanye global untuk mendeklarasikan 15 Oktober sebagai Hari Cuci Tangan Sedunia (HCTPS)?
+
+Begitu banyak penyakit menular seperti penyakit pernafasan, diare, infeksi cacing dan penyakit kulit. Mencuci tangan saja dapat mengurangi jumlah infeksi saluran pernapasan hingga 16-25%. Lalu kapan waktu yang tepat untuk mencuci tangan? Menurut Pusat Pengendalian Penyakit
+and Prevention (CDC) dan Departemen Kesehatan, berikut waktu-waktu yang perlu kita cuci tangan:
+
+1. Sebelum, selama dan setelah menyiapkan makanan.
+2. Sebelum dan sesudah makan.
+3. Sebelum menyusui bayi.
+4. Sebelum dan sesudah perawatan pasien di rumah.
+5. Setelah buang air besar. 6. Setelah batuk atau bersin.
+7. Menyentuh tempat sampah.
+8 Setelah aktivitas seperti menulis, uang, binatang atau menyentuh binatang, berkebun.
+
+Setelah mengetahui waktu yang tepat untuk mencuci tangan, kamu juga perlu mengetahui langkah-langkah yang tepat untuk mencuci tangan dengan benar. Menurut Kementerian Kesehatan, cuci tangan dibagi menjadi lima tahap:
+1. Basahi tangan secara menyeluruh dengan air bersih yang mengalir.
+2. Ambil dan gosokkan sabun ke area telapak tangan, punggung tangan dan sela-sela jari.
+3. Bersihkan bagian bawah kuku.
+4. Cuci tangan dengan air bersih yang mengalir.
+5. Keringkan tangan dengan lap atau lap atau dengan cara diangin-anginkan.
+</item>
+
+
+    </string-array>
+    <string-array name="tanggalrilis">
+        <item>01/05/2022</item>
+        <item>03/01/2023</item>
+        <item>25/06/2022</item>
+        <item>27/09/2022</item>
+        <item>30/01/2023</item>
+        <item>06/08/2022</item>
+        <item>09/03/2022</item>
+        <item>13/02/2023</item>
+        <item>06/02/2023</item>
+        <item>17/12/2022</item>
+    </string-array>
+</resources>
